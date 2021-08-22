@@ -1,7 +1,7 @@
 # pokedex_app
  A cross-platform mobile app using Flutter that shows various Pokémon from Gen 1-6 with description, moves and other parameters catalogues and provide information regarding the various species of Pokémon featured in the Pokémon video game.
 
-Screenshots               |  Screenshots  |  Screenshots              
+Screenshots               |  Screenshots  |  Screenshots
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/nrd26/pokedex_app/blob/master/screenshots/1.png?raw=true)|![](https://github.com/nrd26/pokedex_app/blob/master/screenshots/2.png?raw=true)|![](https://github.com/nrd26/pokedex_app/blob/master/screenshots/3.png?raw=true)
 ![](https://github.com/nrd26/pokedex_app/blob/master/screenshots/4.png?raw=true)|![](https://github.com/nrd26/pokedex_app/blob/master/screenshots/5.png?raw=true)|![](https://github.com/nrd26/pokedex_app/blob/master/screenshots/6.png?raw=true)
